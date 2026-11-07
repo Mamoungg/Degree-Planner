@@ -1,0 +1,521 @@
+{
+  "id": "sfu-business-bba",
+  "school": "Simon Fraser University",
+  "program": "Business Major (BBA), Beedie School of Business",
+  "source": "https://www.sfu.ca/students/calendar/2027/spring/programs/business/major/bachelor-of-business-administration.html",
+  "totalUnits": 120,
+  "unitsPerLevel": 10,
+  "notes": [
+    "BUS 201 is for the high school stream and BUS 202 for the transfer stream. Pick the one you were admitted under.",
+    "Concentration slots are placeholders. Choose an area of concentration, then complete four upper-division courses in it, at least three at the 400 level.",
+    "Only BUS 346 is listed for international business; other approved courses exist. Unit-based prerequisites (such as 45 units) and several upper-division core prerequisites (BUS 373, 374, 381, 393, 478) are not modelled.",
+    "You also need 45 upper-division units (36 in business) and the non-business elective requirement. Confirm with a Beedie advisor."
+  ],
+  "groups": [
+    {
+      "id": "found",
+      "name": "Business foundation (pick 1)",
+      "pick": 1
+    },
+    {
+      "id": "pd",
+      "name": "Professional development",
+      "pick": 0
+    },
+    {
+      "id": "low",
+      "name": "Lower division business core",
+      "pick": 0
+    },
+    {
+      "id": "stat",
+      "name": "Statistics (pick 1)",
+      "pick": 1
+    },
+    {
+      "id": "mecon",
+      "name": "Managerial economics (pick 1)",
+      "pick": 1
+    },
+    {
+      "id": "micro",
+      "name": "Microeconomics (pick 1)",
+      "pick": 1
+    },
+    {
+      "id": "macro",
+      "name": "Macroeconomics (pick 1)",
+      "pick": 1
+    },
+    {
+      "id": "calc",
+      "name": "Calculus (pick 1)",
+      "pick": 1
+    },
+    {
+      "id": "writing",
+      "name": "Writing and humanities (pick 1)",
+      "pick": 1
+    },
+    {
+      "id": "upcore",
+      "name": "Upper division business core",
+      "pick": 0
+    },
+    {
+      "id": "hr",
+      "name": "Organization or HR (pick 1)",
+      "pick": 1
+    },
+    {
+      "id": "intl",
+      "name": "International business (pick 1)",
+      "pick": 1
+    },
+    {
+      "id": "conc",
+      "name": "Area of concentration (pick 4)",
+      "pick": 4
+    }
+  ],
+  "courses": [
+    {
+      "code": "BUS 201",
+      "name": "Introduction to Business (high school stream)",
+      "units": 3,
+      "group": "found",
+      "prereq": []
+    },
+    {
+      "code": "BUS 202",
+      "name": "Foundations of Business (transfer stream)",
+      "units": 3,
+      "group": "found",
+      "prereq": []
+    },
+    {
+      "code": "BUS 203",
+      "name": "Professional Development - Launch",
+      "units": 1,
+      "group": "pd",
+      "prereq": []
+    },
+    {
+      "code": "BUS 300",
+      "name": "Professional Development - Planning",
+      "units": 1,
+      "group": "pd",
+      "prereq": [
+        [
+          "BUS 203"
+        ],
+        [
+          "BUS 217W"
+        ]
+      ]
+    },
+    {
+      "code": "BUS 496",
+      "name": "Professional Development - Summit",
+      "units": 1,
+      "group": "pd",
+      "prereq": []
+    },
+    {
+      "code": "BUS 217W",
+      "name": "Critical Thinking in Business",
+      "units": 3,
+      "group": "low",
+      "prereq": [
+        [
+          "BUS 201",
+          "BUS 202"
+        ]
+      ]
+    },
+    {
+      "code": "BUS 237",
+      "name": "Intro to Business Technology Management",
+      "units": 3,
+      "group": "low",
+      "prereq": []
+    },
+    {
+      "code": "BUS 240",
+      "name": "Introduction to Innovation",
+      "units": 3,
+      "group": "low",
+      "prereq": []
+    },
+    {
+      "code": "BUS 251",
+      "name": "Financial Accounting I",
+      "units": 3,
+      "group": "low",
+      "prereq": []
+    },
+    {
+      "code": "BUS 254",
+      "name": "Managerial Accounting I",
+      "units": 3,
+      "group": "low",
+      "prereq": [
+        [
+          "BUS 251"
+        ]
+      ]
+    },
+    {
+      "code": "BUS 272",
+      "name": "Behaviour in Organizations",
+      "units": 3,
+      "group": "low",
+      "prereq": []
+    },
+    {
+      "code": "BUS 275",
+      "name": "Business in a Sustainable Society",
+      "units": 3,
+      "group": "low",
+      "prereq": []
+    },
+    {
+      "code": "BUS 232",
+      "name": "Business Statistics",
+      "units": 3,
+      "group": "stat",
+      "prereq": []
+    },
+    {
+      "code": "ECON 233",
+      "name": "Intro to Economic Data and Statistics",
+      "units": 3,
+      "group": "stat",
+      "prereq": []
+    },
+    {
+      "code": "STAT 270",
+      "name": "Intro to Probability and Statistics",
+      "units": 3,
+      "group": "stat",
+      "prereq": []
+    },
+    {
+      "code": "BUS 207",
+      "name": "Managerial Economics",
+      "units": 3,
+      "group": "mecon",
+      "prereq": [
+        [
+          "ECON 103",
+          "ECON 113"
+        ],
+        [
+          "ECON 105",
+          "ECON 115"
+        ],
+        [
+          "MATH 157"
+        ]
+      ]
+    },
+    {
+      "code": "ECON 201",
+      "name": "Microeconomic Theory I",
+      "units": 4,
+      "group": "mecon",
+      "prereq": [
+        [
+          "ECON 103",
+          "ECON 113"
+        ],
+        [
+          "ECON 105",
+          "ECON 115"
+        ],
+        [
+          "MATH 150",
+          "MATH 151",
+          "MATH 154",
+          "MATH 157"
+        ]
+      ]
+    },
+    {
+      "code": "ECON 103",
+      "name": "Principles of Microeconomics",
+      "units": 4,
+      "group": "micro",
+      "prereq": []
+    },
+    {
+      "code": "ECON 113",
+      "name": "Intro to Microeconomics",
+      "units": 3,
+      "group": "micro",
+      "prereq": []
+    },
+    {
+      "code": "ECON 105",
+      "name": "Principles of Macroeconomics",
+      "units": 4,
+      "group": "macro",
+      "prereq": []
+    },
+    {
+      "code": "ECON 115",
+      "name": "Intro to Macroeconomics",
+      "units": 3,
+      "group": "macro",
+      "prereq": []
+    },
+    {
+      "code": "MATH 150",
+      "name": "Calculus I with Review",
+      "units": 4,
+      "group": "calc",
+      "prereq": []
+    },
+    {
+      "code": "MATH 151",
+      "name": "Calculus I",
+      "units": 3,
+      "group": "calc",
+      "prereq": []
+    },
+    {
+      "code": "MATH 154",
+      "name": "Math for Life Sciences I",
+      "units": 3,
+      "group": "calc",
+      "prereq": []
+    },
+    {
+      "code": "MATH 157",
+      "name": "Calculus I for Social Sciences",
+      "units": 3,
+      "group": "calc",
+      "prereq": []
+    },
+    {
+      "code": "ENGL 111W",
+      "name": "Literary Classics in English",
+      "units": 3,
+      "group": "writing",
+      "prereq": []
+    },
+    {
+      "code": "ENGL 112W",
+      "name": "Literature Now",
+      "units": 3,
+      "group": "writing",
+      "prereq": []
+    },
+    {
+      "code": "ENGL 113W",
+      "name": "Literature and Performance",
+      "units": 3,
+      "group": "writing",
+      "prereq": []
+    },
+    {
+      "code": "ENGL 114W",
+      "name": "Language and Purpose",
+      "units": 3,
+      "group": "writing",
+      "prereq": []
+    },
+    {
+      "code": "ENGL 115W",
+      "name": "Literature and Culture",
+      "units": 3,
+      "group": "writing",
+      "prereq": []
+    },
+    {
+      "code": "ENGL 199W",
+      "name": "Writing to Persuade",
+      "units": 3,
+      "group": "writing",
+      "prereq": []
+    },
+    {
+      "code": "PHIL 100W",
+      "name": "Knowledge and Reality",
+      "units": 3,
+      "group": "writing",
+      "prereq": []
+    },
+    {
+      "code": "PHIL 105",
+      "name": "Critical Thinking",
+      "units": 3,
+      "group": "writing",
+      "prereq": []
+    },
+    {
+      "code": "PHIL 110",
+      "name": "Intro to Logic and Reasoning",
+      "units": 3,
+      "group": "writing",
+      "prereq": []
+    },
+    {
+      "code": "PHIL 120W",
+      "name": "Moral and Legal Problems",
+      "units": 3,
+      "group": "writing",
+      "prereq": []
+    },
+    {
+      "code": "PHIL 150",
+      "name": "Great Works in the History of Philosophy",
+      "units": 3,
+      "group": "writing",
+      "prereq": []
+    },
+    {
+      "code": "WL 101W",
+      "name": "Writing in World Literature",
+      "units": 3,
+      "group": "writing",
+      "prereq": []
+    },
+    {
+      "code": "WL 103W",
+      "name": "Early World Literatures",
+      "units": 3,
+      "group": "writing",
+      "prereq": []
+    },
+    {
+      "code": "WL 104W",
+      "name": "Modern World Literatures",
+      "units": 3,
+      "group": "writing",
+      "prereq": []
+    },
+    {
+      "code": "WL 105W",
+      "name": "Translation Lab",
+      "units": 3,
+      "group": "writing",
+      "prereq": []
+    },
+    {
+      "code": "BUS 303",
+      "name": "Business, Society and Ethics",
+      "units": 3,
+      "group": "upcore",
+      "prereq": []
+    },
+    {
+      "code": "BUS 312",
+      "name": "Introduction to Finance",
+      "units": 3,
+      "group": "upcore",
+      "prereq": [
+        [
+          "BUS 254"
+        ],
+        [
+          "BUS 232",
+          "ECON 233",
+          "STAT 270"
+        ]
+      ]
+    },
+    {
+      "code": "BUS 343",
+      "name": "Introduction to Marketing",
+      "units": 3,
+      "group": "upcore",
+      "prereq": []
+    },
+    {
+      "code": "BUS 360W",
+      "name": "Business Communication",
+      "units": 4,
+      "group": "upcore",
+      "prereq": [
+        [
+          "BUS 217W"
+        ],
+        [
+          "BUS 201",
+          "BUS 202"
+        ]
+      ]
+    },
+    {
+      "code": "BUS 373",
+      "name": "Operations and Supply Chain Management",
+      "units": 3,
+      "group": "upcore",
+      "prereq": []
+    },
+    {
+      "code": "BUS 393",
+      "name": "Commercial Law",
+      "units": 3,
+      "group": "upcore",
+      "prereq": []
+    },
+    {
+      "code": "BUS 478",
+      "name": "Strategy",
+      "units": 3,
+      "group": "upcore",
+      "prereq": []
+    },
+    {
+      "code": "BUS 374",
+      "name": "Organization Theory",
+      "units": 3,
+      "group": "hr",
+      "prereq": []
+    },
+    {
+      "code": "BUS 381",
+      "name": "Intro to Human Resource Management",
+      "units": 3,
+      "group": "hr",
+      "prereq": []
+    },
+    {
+      "code": "BUS 346",
+      "name": "Global Business Environment",
+      "units": 3,
+      "group": "intl",
+      "prereq": []
+    },
+    {
+      "code": "CONCENTRATION 1",
+      "name": "Upper-division concentration course (placeholder)",
+      "units": 3,
+      "group": "conc",
+      "prereq": []
+    },
+    {
+      "code": "CONCENTRATION 2",
+      "name": "Upper-division concentration course (placeholder)",
+      "units": 3,
+      "group": "conc",
+      "prereq": []
+    },
+    {
+      "code": "CONCENTRATION 3",
+      "name": "Upper-division concentration course (placeholder)",
+      "units": 3,
+      "group": "conc",
+      "prereq": []
+    },
+    {
+      "code": "CONCENTRATION 4",
+      "name": "Upper-division concentration course (placeholder)",
+      "units": 3,
+      "group": "conc",
+      "prereq": []
+    }
+  ]
+}

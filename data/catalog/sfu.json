@@ -1,0 +1,1695 @@
+{
+ "generatedAt": "2026-11-07T18:54:55.843Z",
+ "termsScanned": [
+  "spring 2027",
+  "fall 2026",
+  "summer 2026",
+  "spring 2026",
+  "fall 2025",
+  "summer 2025",
+  "spring 2025"
+ ],
+ "courses": {
+  "BUS 201": {
+   "title": "Introduction to Business",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "This course is only open to approved business administration majors admitted to the faculty through the Business Foundation Pathways - High School Pathway. Corequisite: BUS 203 with a P grade.",
+   "terms": [
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "BUS 202": {
+   "title": "Foundations of Business",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "This course is only open to approved business administration majors, joint majors, or second degree students admitted to the faculty through the Business Foundation Pathways - Transfer Pathway. Corequisite: BUS 203 with a P grade.",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "BUS 203": {
+   "title": "Professional Development - Launch",
+   "units": 1,
+   "designation": "N/A",
+   "prereqText": "This course is only open to approved business administration majors admitted to the faculty through the BBA major - highschool or transfer stream in Fall 2022 and onward. Corequisite: BUS 201 or BUS 202, with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "BUS 207": {
+   "title": "Managerial Economics",
+   "units": 3,
+   "designation": "Quantitative",
+   "prereqText": "ECON 103 or ECON 113, ECON 105 or ECON 115, MATH 157, all with a minimum grade of C-; 15 units.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "BUS 217W": {
+   "title": "Critical Thinking in Business",
+   "units": 3,
+   "designation": "Writing",
+   "prereqText": "BUS 201 with a minimum grade of C- and 15 units; OR 45 units and corequisite: BUS 202; OR business administration joint major, joint honours, or double degree students with 45 units; OR data science students with 15 units; OR actuarial science students with 15 units.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "BUS 232": {
+   "title": "Business Statistics",
+   "units": 3,
+   "designation": "Quantitative",
+   "prereqText": "",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "BUS 237": {
+   "title": "Introduction to Business Technology Management",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "12 units.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "BUS 240": {
+   "title": "Introduction to Innovation",
+   "units": 3,
+   "designation": "Breadth-Social Sciences",
+   "prereqText": "12 units.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "BUS 251": {
+   "title": "Financial Accounting I",
+   "units": 3,
+   "designation": "Quantitative",
+   "prereqText": "12 units.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "BUS 254": {
+   "title": "Managerial Accounting I",
+   "units": 3,
+   "designation": "Quantitative",
+   "prereqText": "BUS 251 with a minimum grade of C-; 15 units.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "BUS 272": {
+   "title": "Behaviour in Organizations",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "12 units.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "BUS 275": {
+   "title": "Business in a Sustainable Society",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "12 units.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "BUS 300": {
+   "title": "Professional Development - Planning",
+   "units": 1,
+   "designation": "N/A",
+   "prereqText": "This course is only open to approved business administration majors admitted to the faculty in Fall 2022 and onward. BUS 100 or BUS 203, with a P grade and BUS 217W with a minimum grade of C-; 45 units. Recommendation to take with BUS 360W.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "BUS 303": {
+   "title": "Business, Society and Ethics",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "45 units.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "BUS 312": {
+   "title": "Introduction to Finance",
+   "units": 3,
+   "designation": "Quantitative",
+   "prereqText": "BUS 254 and (BUS 232 or ECON 233 or STAT 270 or STAT 271), both with a minimum grade of C- and 45 units; OR actuarial science students with BUS 254 and (BUS 232 or ECON 233 or STAT 270 or STAT 271), both with a minimum grade of C- and 45 units. Recommended: BUS 207 or ECON 201.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "BUS 343": {
+   "title": "Introduction to Marketing",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "45 units.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "BUS 346": {
+   "title": "Global Business Environment",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "45 units.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "BUS 360W": {
+   "title": "Business Communication",
+   "units": 4,
+   "designation": "Writing",
+   "prereqText": "This course is open to students admitted to the business administration major, honours, or second degree program and who have 45 units and BUS 130 or (BUS 201 or BUS 202) or BUS 301, and BUS 217W, both with a minimum grade of C-, OR to students admitted Fall 2022 onwards to the business administration major, honours, or second degree program, and who have 45 units; BUS 217W and (BUS 201 or BUS 202), both with a minimum grade of C-; and BUS 300, OR to business administration joint major or joint honours students with BUS 217W with a minimum grade of C- and 45 units, OR to business and economics joint major students with ECON 220W with a minimum grade of C- and 45 units, OR to mechatronic systems engineering and business administration double degree students with 45 units, OR to data science major with BUS 217W with a minimum grade of C- and 45 units.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "BUS 373": {
+   "title": "Operations and Supply Chain Management",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "BUS 232, ECON 233, STAT 270, or STAT 271, with a minimum grade of C-; 45 units.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "BUS 374": {
+   "title": "Organization Theory",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "45 units and BUS 272 with a minimum grade of C-; OR business administration minor students admitted Fall 2025 - onwards with BUS 272 with a minimum grade of C- and 45 units.",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "BUS 381": {
+   "title": "Introduction to Human Resource Management",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "BUS 272 with a minimum grade of C- and 45 units; OR business administration minor students admitted Fall 2025 - onwards with BUS 272 with a minimum grade of C- and 45 units.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "BUS 393": {
+   "title": "Commercial Law",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "45 units.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "BUS 478": {
+   "title": "Strategy",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "BUS 207 (or ECON 201 or ECON 301), BUS 312, 343, 360W and either BUS 374 or 381, all with a minimum grade of C-; 90 units.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "BUS 496": {
+   "title": "Professional Development - Summit",
+   "units": 1,
+   "designation": "N/A",
+   "prereqText": "This course is only open to approved business administration majors admitted to the faculty in Fall 2022 and onward, BUS 300 with a P grade and BUS 360W with a minimum grade of C-; 95 units.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CHEM 121": {
+   "title": "General Chemistry and Laboratory I",
+   "units": 4,
+   "designation": "Quantitative/Breadth-Science",
+   "prereqText": "Chemistry 12 with a minimum grade of B, or CHEM 111 with a minimum grade of C- or CHEM 110 and 115, both with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 105W": {
+   "title": "Social Issues and Communication Strategies in Computing Science",
+   "units": 3,
+   "designation": "Writing",
+   "prereqText": "",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 120": {
+   "title": "Introduction to Computing Science and Programming I",
+   "units": 3,
+   "designation": "Quantitative/Breadth-Science",
+   "prereqText": "BC Math 12 or equivalent is recommended.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 125": {
+   "title": "Introduction to Computing Science and Programming II",
+   "units": 3,
+   "designation": "Quantitative",
+   "prereqText": "CMPT 120 or CMPT 130, with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 130": {
+   "title": "Introduction to Computer Programming I",
+   "units": 3,
+   "designation": "Quantitative/Breadth-Science",
+   "prereqText": "BC Math 12 (or equivalent, or any of MATH 100, 150, 151, 154, or 157, with a minimum grade of C-).",
+   "terms": [
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "CMPT 135": {
+   "title": "Introduction to Computer Programming II",
+   "units": 3,
+   "designation": "Quantitative",
+   "prereqText": "CMPT 130 with a minimum grade of C-.",
+   "terms": [
+    "spring"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 201": {
+   "title": "Systems Programming",
+   "units": 4,
+   "designation": "N/A",
+   "prereqText": "(CMPT 125 or CMPT 135) and MACM 101, both with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 210": {
+   "title": "Probability and Computing",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "MACM 101, MATH 152, CMPT 125 or CMPT 135, and (MATH 240 or MATH 232), all with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 213": {
+   "title": "Object Oriented Design in Java",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 225 with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "CMPT 225": {
+   "title": "Data Structures and Programming",
+   "units": 3,
+   "designation": "Quantitative",
+   "prereqText": "(MACM 101 and (CMPT 125, CMPT 129 or CMPT 135)) or (ENSC 251 and ENSC 252), all with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 276": {
+   "title": "Introduction to Software Engineering",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "One W course, CMPT 225, (MACM 101 or (ENSC 251 and ENSC 252)) and (MATH 151 or MATH 150), all with a minimum grade of C-. MATH 154 or MATH 157 with at least a B+ may be substituted for MATH 151 or MATH 150.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 295": {
+   "title": "Introduction to Computer Systems",
+   "units": 4,
+   "designation": "N/A",
+   "prereqText": "Either (MACM 101 and (CMPT 125 or CMPT 135)) or (MATH 151 and CMPT 102 for students in an Applied Physics program), all with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 303": {
+   "title": "Operating Systems",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 225, (CMPT 295 or ENSC 254), and (CMPT 201 or ENSC 351), all with a minimum grade of C-.",
+   "terms": [
+    "spring"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 305": {
+   "title": "Computer Simulation and Modelling",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 225, (MACM 101 or (ENSC 251 and ENSC 252)) and (STAT 270 or STAT 271), all with a minimum grade of C-.",
+   "terms": [
+    "spring"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 307": {
+   "title": "Data Structures and Algorithms",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 225, (MACM 201 or CMPT 210), (MATH 150 or MATH 151), and (MATH 232 or MATH 240), all with a minimum grade of C-. MATH 154 or MATH 157 with a grade of at least B+ may be substituted for MATH 150 or MATH 151.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 308": {
+   "title": "Computability and Complexity",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "(MACM 201 or CMPT 210) with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 310": {
+   "title": "Introduction to Artificial Intelligence",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 225 and (STAT 271 or ENSC 280), all with a minimum grade of C-. Recommended: MATH 251.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 340": {
+   "title": "Biomedical Computing",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "Completion of 60 units including one of CMPT 125, 126, 128, 135, with a minimum grade of C- or CMPT 102 with a grade of B or higher.",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "spring 2026"
+  },
+  "CMPT 353": {
+   "title": "Computational Data Science",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 225 and (BUS 232, STAT 201, STAT 203, STAT 205, STAT 270, STAT 271, ENSC 280, MSE 210, or SEE 241), with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "summer"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 354": {
+   "title": "Database Systems I",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 225 and (MACM 101 or (ENSC 251 and ENSC 252)), all with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 361": {
+   "title": "Introduction to Visual Computing",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 225 and (STAT 271 or ENSC 280), both with a minimum grade of C-. Recommended: MATH 251.",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 362": {
+   "title": "Mobile Applications Programming and Design",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 225 with a minimum grade of C-.",
+   "terms": [
+    "fall"
+   ],
+   "lastOffered": "fall 2025"
+  },
+  "CMPT 363": {
+   "title": "User Interface Design",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 225 and CMPT 263, both with a minimum grade of C-.",
+   "terms": [
+    "spring"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 365": {
+   "title": "Multimedia Systems",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 225 with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "CMPT 371": {
+   "title": "Data Communications and Networking",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 225 and (MATH 151 or MATH 150), with a minimum grade of C-. MATH 154 or MATH 157 with a grade of at least B+ may be substituted for MATH 151 (MATH 150).",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 372": {
+   "title": "Web II - Server-side Development",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 272 and CMPT 225, both with a minimum grade of C-.",
+   "terms": [
+    "summer"
+   ],
+   "lastOffered": "summer 2026"
+  },
+  "CMPT 373": {
+   "title": "Software Development Methods",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 276 or 275, with a minimum grade of C-.",
+   "terms": [
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "CMPT 376W": {
+   "title": "Professional Responsibility and Technical Writing",
+   "units": 3,
+   "designation": "Writing",
+   "prereqText": "CMPT 105W and (CMPT 275 or CMPT 276), with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 379": {
+   "title": "Principles of Compiler Design",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "(MACM 201 or CMPT 210), (CMPT 295 or ENSC 254) and CMPT 225, all with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "summer"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 383": {
+   "title": "Comparative Programming Languages",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 225 and (MACM 101 or (ENSC 251 and ENSC 252)), all with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "CMPT 384": {
+   "title": "Symbolic Computing",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 225 and (MACM 101 or (ENSC 251 and ENSC 252)), all with a minimum grade of C-.",
+   "terms": [
+    "spring"
+   ],
+   "lastOffered": "spring 2025"
+  },
+  "CMPT 403": {
+   "title": "System Security and Privacy",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 201 or CMPT 300 or ENSC 351, with a minimum grade of C-.",
+   "terms": [
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "CMPT 404": {
+   "title": "Cryptography and Cryptographic Protocols",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "(MACM 201 or CMPT 210) with a minimum grade of C-. CMPT 307 and 308 are recommended.",
+   "terms": [
+    "spring"
+   ],
+   "lastOffered": "spring 2026"
+  },
+  "CMPT 405": {
+   "title": "Design and Analysis of Computing Algorithms",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 307 with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 407": {
+   "title": "Computational Complexity",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 307 with a minimum grade of C-. CMPT 308 is recommended.",
+   "terms": [
+    "spring"
+   ],
+   "lastOffered": "spring 2026"
+  },
+  "CMPT 409": {
+   "title": "Special Topics in Theoretical Computing Science",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 307 with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 410": {
+   "title": "Machine Learning",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 310 and MACM 316, both with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 412": {
+   "title": "Computer Vision",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 361 and MATH 152, both with a minimum grade of C-.",
+   "terms": [
+    "spring"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 413": {
+   "title": "Computational Linguistics",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "Completion of nine units in Computing Science upper division courses or, in exceptional cases, permission of the instructor.",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "CMPT 417": {
+   "title": "Intelligent Systems",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 225 with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 419": {
+   "title": "Special Topics in Artificial Intelligence",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 420": {
+   "title": "Deep Learning",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 310, CMPT 410 or CMPT 419 (Machine Learning), both with a minimum grade of C-.",
+   "terms": [
+    "spring"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 431": {
+   "title": "Distributed Systems",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "(CMPT 201 or CMPT 300 or ENSC 351) and CMPT 371, both with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 433": {
+   "title": "Embedded Systems",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "(CMPT 201 or CMPT 300 or ENSC 351) and CMPT 295, both with a minimum grade of C-.",
+   "terms": [
+    "spring"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 441": {
+   "title": "Computational Biology",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 307 with a minimum grade of C-.",
+   "terms": [
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "CMPT 450": {
+   "title": "Computer Architecture",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 295 with a minimum grade of C-.",
+   "terms": [
+    "spring"
+   ],
+   "lastOffered": "spring 2026"
+  },
+  "CMPT 454": {
+   "title": "Database Systems II",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "(CMPT 201 or CMPT 300 or ENSC 351) and CMPT 354, both with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 459": {
+   "title": "Special Topics in Database Systems",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 354 with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "fall 2025"
+  },
+  "CMPT 461": {
+   "title": "Computational Photography and Image Manipulation",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 361 with a minimum grade of C-.",
+   "terms": [
+    "spring"
+   ],
+   "lastOffered": "spring 2026"
+  },
+  "CMPT 464": {
+   "title": "Geometric Modelling in Computer Graphics",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 361, MACM 316, both with a minimum grade of C-.",
+   "terms": [
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "CMPT 466": {
+   "title": "Animation",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 361 with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "CMPT 467": {
+   "title": "Visualization",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 225 with a minimum grade of C-. Recommended: CMPT 263 and CMPT 363.",
+   "terms": [
+    "spring"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 469": {
+   "title": "Special Topics in Computer Graphics",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 361 with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "CMPT 471": {
+   "title": "Networking II",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "(CMPT 201 or CMPT 300 or ENSC 351) and CMPT 371, both with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "summer"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 473": {
+   "title": "Software Testing, Reliability and Security",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "(CMPT 275 or CMPT 276) with a minimum grade of C- and 15 upper division CMPT units.",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "CMPT 475": {
+   "title": "Requirements Engineering",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 275 or CMPT 276, (MACM 201 or CMPT 210) , all with a minimum grade of C- and 15 units of upper division courses. Recommended: Co-op experience.",
+   "terms": [
+    "spring"
+   ],
+   "lastOffered": "spring 2025"
+  },
+  "CMPT 477": {
+   "title": "Introduction to Formal Verification",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 275 or 276, with a minimum grade of C-.",
+   "terms": [
+    "fall"
+   ],
+   "lastOffered": "fall 2025"
+  },
+  "CMPT 479": {
+   "title": "Special Topics in Computing Systems",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 201 or CMPT 300 or ENSC 351, with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "CMPT 489": {
+   "title": "Special Topics in Programming Languages",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 383 with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 494": {
+   "title": "Software Systems Program Capstone Project I",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "Students must have completed at least 15 units of upper division CMPT courses. Successful Capstone Project Proposal.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "CMPT 495": {
+   "title": "Software Systems Capstone Project II",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 494 with a minimum grade of C-. CMPT 495 must be taken in the term immediately following the successful completion of CMPT 494 and must be for the same project and faculty supervisor.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "ECON 103": {
+   "title": "Principles of Microeconomics",
+   "units": 4,
+   "designation": "Quantitative",
+   "prereqText": "",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "ECON 105": {
+   "title": "Principles of Macroeconomics",
+   "units": 4,
+   "designation": "Quantitative/Breadth-Soc",
+   "prereqText": "",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "ECON 113": {
+   "title": "Introduction to Microeconomics",
+   "units": 3,
+   "designation": "Quantitative/Breadth-Soc",
+   "prereqText": "",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "ECON 115": {
+   "title": "Introduction to Macroeconomics",
+   "units": 3,
+   "designation": "Quantitative/Breadth-Soc",
+   "prereqText": "",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "ECON 201": {
+   "title": "Microeconomic Theory I: Competitive Behavior",
+   "units": 4,
+   "designation": "Quantitative",
+   "prereqText": "ECON 103 with a minimum grade of C- or ECON 113 with a minimum grade of B-; ECON 105 with a minimum grade of C- or ECON 115 with a minimum grade of B-; MATH 150, MATH 151, MATH 154, or MATH 157, with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "ECON 233": {
+   "title": "Introduction to Economic Data and Statistics",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "MATH 150, MATH 151, MATH 154, or MATH 157, with a minimum grade of C-; 15 units. MATH 150, MATH 151, MATH 154, or MATH 157 may be taken concurrently with ECON 233.",
+   "terms": [
+    "spring"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "ENGL 111W": {
+   "title": "Literary Classics in English",
+   "units": 3,
+   "designation": "Writing/Breadth-Humanities",
+   "prereqText": "",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "ENGL 112W": {
+   "title": "Literature Now",
+   "units": 3,
+   "designation": "Writing/Breadth-Humanities",
+   "prereqText": "",
+   "terms": [
+    "spring",
+    "summer"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "ENGL 113W": {
+   "title": "Literature and Performance",
+   "units": 3,
+   "designation": "Writing/Breadth-Humanities",
+   "prereqText": "",
+   "terms": [
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "ENGL 114W": {
+   "title": "Language and Purpose",
+   "units": 3,
+   "designation": "Writing/Breadth-Humanities",
+   "prereqText": "",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "summer 2026"
+  },
+  "ENGL 115W": {
+   "title": "Literature and Culture",
+   "units": 3,
+   "designation": "Writing/Breadth-Humanities",
+   "prereqText": "",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "ENGL 199W": {
+   "title": "Writing to Persuade",
+   "units": 3,
+   "designation": "Writing",
+   "prereqText": "12 units.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "ENSC 100": {
+   "title": "Engineering, Science and Society",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "",
+   "terms": [
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "ENSC 105W": {
+   "title": "Process, Form, and Convention in Professional Genres",
+   "units": 3,
+   "designation": "Writing",
+   "prereqText": "",
+   "terms": [
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "ENSC 120": {
+   "title": "Introduction to Electronics Laboratory Instruments Operation and Measurement Techniques",
+   "units": 2,
+   "designation": "N/A",
+   "prereqText": "BC Pre-Calculus 12 and BC Physics 12 (or equivalents).",
+   "terms": [
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "ENSC 151": {
+   "title": "Introduction to Software Development for Engineers",
+   "units": 4,
+   "designation": "N/A",
+   "prereqText": "BC Math 12 (or equivalent, or any of MATH 100, 150, 151, 154, or 157, with a minimum grade of C-).",
+   "terms": [
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "ENSC 180": {
+   "title": "Introduction to Engineering Analysis",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "ENSC 151 and (MATH 151 or MATH 150), all with a minimum grade of C-. Corequisite: MATH 152 and MATH 232.",
+   "terms": [
+    "spring"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "ENSC 204": {
+   "title": "Graphical Communication for Engineering",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "",
+   "terms": [
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "ENSC 220": {
+   "title": "Electric Circuits I",
+   "units": 4,
+   "designation": "Quantitative",
+   "prereqText": "(PHYS 121 or PHYS 126 or PHYS 141), ENSC 120, MATH 232 and (MATH 260 or MATH 310), all with a minimum grade of C-. MATH 260 may be taken concurrently.",
+   "terms": [
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "ENSC 225": {
+   "title": "Microelectronics I",
+   "units": 4,
+   "designation": "Quantitative",
+   "prereqText": "(ENSC 220 or MSE 250 or SEE 230), MATH 232, and (MATH 260 or MATH 310), all with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "ENSC 251": {
+   "title": "Software Design and Analysis for Engineers",
+   "units": 4,
+   "designation": "N/A",
+   "prereqText": "ENSC 151 with a minimum grade of C-.",
+   "terms": [
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "ENSC 252": {
+   "title": "Fundamentals of Digital Logic & Design",
+   "units": 4,
+   "designation": "N/A",
+   "prereqText": "ENSC 151 with a minimum grade of C-. ENSC 252 is a required course for all engineering science majors and honours students (no course substitutions are permitted).",
+   "terms": [
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "ENSC 254": {
+   "title": "Introduction to Computer Organization",
+   "units": 4,
+   "designation": "N/A",
+   "prereqText": "ENSC 251 and ENSC 252, both with a minimum grade of C-.",
+   "terms": [
+    "summer"
+   ],
+   "lastOffered": "summer 2026"
+  },
+  "ENSC 280": {
+   "title": "Engineering Measurement and Data Analysis",
+   "units": 4,
+   "designation": "N/A",
+   "prereqText": "((PHYS 121 and ENSC 120) or PHYS 141) and (MATH 251 and MATH 232), all with a minimum grade of C-. MATH 251 and/or MATH 232 may be taken concurrently with ENSC 280. Engineering Science Majors and Honours students are required to take ENSC 280 (no course substitutions will be accepted).",
+   "terms": [
+    "summer"
+   ],
+   "lastOffered": "summer 2026"
+  },
+  "ENSC 320": {
+   "title": "Electric Circuits II",
+   "units": 4,
+   "designation": "N/A",
+   "prereqText": "(ENSC 220 or MSE 250), MATH 232, and (MATH 260 or MATH 310), all with a minimum grade of C-.",
+   "terms": [
+    "summer"
+   ],
+   "lastOffered": "summer 2026"
+  },
+  "ENSC 324": {
+   "title": "Electronic Devices",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "(ENSC 220 or MSE 250), MATH 232, and (MATH 260 or MATH 310), all with a minimum grade of C-.",
+   "terms": [
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "ENSC 327": {
+   "title": "Communication Systems",
+   "units": 4,
+   "designation": "N/A",
+   "prereqText": "(ENSC 380 or MSE 280) and ENSC 280, all with a minimum grade of C-. Students who completed STAT 270 prior to Spring 2015 may use STAT 270 instead of ENSC 280.",
+   "terms": [
+    "spring"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "ENSC 350": {
+   "title": "Digital Systems Design",
+   "units": 4,
+   "designation": "N/A",
+   "prereqText": "(ENSC 215 and either ENSC 250 or CMPT 250) or (ENSC 252 and ENSC 254), all with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "ENSC 351": {
+   "title": "Embedded and Real Time System Software",
+   "units": 4,
+   "designation": "N/A",
+   "prereqText": "(ENSC 151 and ENSC 215 and ENSC 250) or ENSC 254 or (CMPT 225 and (CMPT 250 or CMPT 295)), all with a minimum grade of C- and a minimum of 60 units. ENSC 351 is a required course for all engineering science major and honours students (no course substitutions are permitted).",
+   "terms": [
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "ENSC 380": {
+   "title": "Linear Systems",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "ENSC 180, ENSC 220 (or MSE 250) and (MATH 260 or MATH 310), all with a minimum grade of C-.",
+   "terms": [
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "ENSC 405W": {
+   "title": "Capstone A: Project Design, Management, and Documentation",
+   "units": 3,
+   "designation": "Writing",
+   "prereqText": "(ENSC 105W or MSE 101W), ENSC 204, all with a minimum grade of C-, completion of a minimum of 22 units of required upper division ENSC courses, and completion of (or concurrent enrollment in) two upper division technical electives meeting the requirements of the program. Students are required to complete at least two co-ops before enrolling in ENSC 440 Capstone B. Capstone B must be taken in the term immediately following Capstone A. Enrollment into Capstone A is by approval of the department via Capstone application form.",
+   "terms": [
+    "spring",
+    "summer"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "ENSC 406": {
+   "title": "Engineering Ethics, Law, and Professional Practice",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "100 units including one of ENSC 100, ENSC 106, CMPT 106, or MSE 102, with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "summer"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "ENSC 410": {
+   "title": "The Business of Engineering",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "A minimum of 80 units is required to enroll in this course.",
+   "terms": [
+    "spring"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "ENSC 429": {
+   "title": "Digital Signal Processing",
+   "units": 4,
+   "designation": "N/A",
+   "prereqText": "(ENSC 327 or ENSC 328), (ENSC 380 or MSE 280), all with a minimum grade of C- and a minimum of 80 units.",
+   "terms": [
+    "summer"
+   ],
+   "lastOffered": "summer 2026"
+  },
+  "ENSC 440": {
+   "title": "Capstone B: Engineering Design Project",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "ENSC 405W with a minimum grade of C-. Students will be automatically enrolled in ENSC 440 in the term immediately following successful completion of ENSC 405W.",
+   "terms": [
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "ENSC 450": {
+   "title": "VLSI Systems Design",
+   "units": 4,
+   "designation": "N/A",
+   "prereqText": "(ENSC 225 or MSE 251 or SEE 231) and ENSC 350, all with a minimum grade of C- and a minimum of 80 units.",
+   "terms": [
+    "spring"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "ENSC 452": {
+   "title": "Advanced Digital System Design",
+   "units": 4,
+   "designation": "N/A",
+   "prereqText": "ENSC 350 and 351, with a minimum grade of C- and a minimum of 80 units.",
+   "terms": [
+    "spring"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "ENSC 453": {
+   "title": "Programming for Heterogeneous Computing Systems",
+   "units": 4,
+   "designation": "N/A",
+   "prereqText": "ENSC 350 and ENSC 351, both with a minimum grade of C-.",
+   "terms": [
+    "spring"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "MACM 101": {
+   "title": "Discrete Mathematics I",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "BC Pre-Calculus 12 or BC Calculus 12 (or equivalent), or any of MATH 100, 150, 151, 154, 157.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "MACM 201": {
+   "title": "Discrete Mathematics II",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "MATH 141 or MACM 101 or (ENSC 251 and one of MATH 232 or MATH 240).",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "MACM 316": {
+   "title": "Numerical Analysis I",
+   "units": 3,
+   "designation": "Quantitative",
+   "prereqText": "MATH 152 or 155 or 158, and MATH 232 or 240, and computing experience.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "MATH 150": {
+   "title": "Calculus I with Review",
+   "units": 4,
+   "designation": "Quantitative",
+   "prereqText": "Pre-Calculus 12 (or equivalent) with a grade of at least B+, or MATH 100 with a grade of at least B-, or MATH 110 with a grade of at least A-.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "MATH 151": {
+   "title": "Calculus I",
+   "units": 3,
+   "designation": "Quantitative",
+   "prereqText": "Pre-Calculus 12 (or equivalent) with a grade of at least A, or MATH 100 with a grade of at least B, or MATH 110 with a grade of at least A.",
+   "terms": [
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "MATH 152": {
+   "title": "Calculus II",
+   "units": 3,
+   "designation": "Quantitative",
+   "prereqText": "MATH 150 or MATH 151, with a minimum grade of C-; or MATH 154 or MATH 157, with a minimum grade of B.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "MATH 154": {
+   "title": "Mathematics for the Life Sciences I",
+   "units": 3,
+   "designation": "Quantitative",
+   "prereqText": "Pre-Calculus 12 (or equivalent) with a grade of at least B, or MATH 100 with a grade of at least C-, or MATH 110 with a grade of at least C-.",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "MATH 155": {
+   "title": "Mathematics for the Life Sciences II",
+   "units": 3,
+   "designation": "Quantitative",
+   "prereqText": "MATH 150, 151 or 154, with a minimum grade of C-; or MATH 157 with a grade of at least B.",
+   "terms": [
+    "spring",
+    "summer"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "MATH 157": {
+   "title": "Calculus I for the Social Sciences",
+   "units": 3,
+   "designation": "Quantitative",
+   "prereqText": "Pre-Calculus 12 (or equivalent) with a grade of at least B, or MATH 100 with a grade of at least C, or MATH 110 with a grade of at least C.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "MATH 158": {
+   "title": "Calculus II for the Social Sciences",
+   "units": 3,
+   "designation": "Quantitative",
+   "prereqText": "MATH 150 or 151 or 154 or 157, with a minimum grade of C-.",
+   "terms": [
+    "spring"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "MATH 232": {
+   "title": "Applied Linear Algebra",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "MATH 150 or 151 or MACM 101, with a minimum grade of C-; or MATH 154 or 157, both with a grade of at least B.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "MATH 240": {
+   "title": "Algebra I: Linear Algebra",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "MATH 150 or 151 or MACM 101, with a minimum grade of C-; or MATH 154 or 157, both with a grade of at least B. Students are advised to have taken MATH 141.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "MATH 251": {
+   "title": "Calculus III",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "MATH 152 with a minimum grade of C-; or MATH 158 with a grade of at least B. Also, for students in the life sciences, MATH 154 with a minimum grade of C- and MATH 155 with a minimum grade of A-. Recommended: It is recommended that MATH 240 or 232 be taken before or concurrently with MATH 251.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "MATH 260": {
+   "title": "Introduction to Ordinary Differential Equations",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "MATH 152 with a minimum grade of C-; or MATH 155 or 158, with a grade of at least B; MATH 232 or 240, with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "MSE 101W": {
+   "title": "Process, Form, and Convention in Professional Genres",
+   "units": 3,
+   "designation": "Writing",
+   "prereqText": "",
+   "terms": [
+    "summer"
+   ],
+   "lastOffered": "summer 2026"
+  },
+  "PHIL 100W": {
+   "title": "Knowledge and Reality",
+   "units": 3,
+   "designation": "Writing/Breadth-Humanities",
+   "prereqText": "",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "PHIL 105": {
+   "title": "Critical Thinking",
+   "units": 3,
+   "designation": "Quantitative/Breadth-Soc",
+   "prereqText": "",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "PHIL 110": {
+   "title": "Introduction to Logic and Reasoning",
+   "units": 3,
+   "designation": "Quantitative",
+   "prereqText": "",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "PHIL 120W": {
+   "title": "Moral and Legal Problems",
+   "units": 3,
+   "designation": "Writing/Breadth-Humanities",
+   "prereqText": "",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "PHIL 150": {
+   "title": "Great Works in the History of Philosophy",
+   "units": 3,
+   "designation": "Breadth-Humanities",
+   "prereqText": "",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "PHYS 120": {
+   "title": "Mechanics and Modern Physics",
+   "units": 3,
+   "designation": "Quantitative/Breadth-Science",
+   "prereqText": "BC Principles of Physics 12 or PHYS 100 or equivalent, with a minimum grade of C-. This prerequisite may be waived, at the discretion of the department, as determined by the student's performance on a regularly scheduled PHYS 100 final exam. Please consult the physics advisor for further details. Corequisite: MATH 150 or 151 or 154. Recommended Corequisite: PHYS 132.",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "PHYS 121": {
+   "title": "Optics, Electricity and Magnetism",
+   "units": 3,
+   "designation": "Quantitative/Breadth-Science",
+   "prereqText": "PHYS 120 or 125 or 140, with a minimum grade of C-, or PHYS 101 with a minimum grade of B. Corequisite: MATH 152 or 155. Recommended Corequisite: PHYS 133.",
+   "terms": [
+    "spring",
+    "summer"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "SEE 101W": {
+   "title": "Process, Form and Convention in Professional Genres",
+   "units": 3,
+   "designation": "Writing",
+   "prereqText": "",
+   "terms": [
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "STAT 270": {
+   "title": "Introduction to Probability and Statistics",
+   "units": 3,
+   "designation": "Quantitative",
+   "prereqText": "or Corequisite: MATH 152 or 155 or 158, with a minimum grade of C-. Students wishing an intuitive appreciation of a broad range of statistical strategies may wish to take STAT 100 first.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "STAT 271": {
+   "title": "Probability and Statistics for Computing Science",
+   "units": 3,
+   "designation": "N/A",
+   "prereqText": "CMPT 210 with a minimum grade of C-.",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "WL 101W": {
+   "title": "Writing in World Literature",
+   "units": 3,
+   "designation": "Writing/Breadth-Humanities",
+   "prereqText": "",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  },
+  "WL 103W": {
+   "title": "Early World Literatures",
+   "units": 3,
+   "designation": "Writing/Breadth-Humanities",
+   "prereqText": "",
+   "terms": [
+    "spring",
+    "summer",
+    "fall"
+   ],
+   "lastOffered": "fall 2026"
+  },
+  "WL 104W": {
+   "title": "Modern World Literatures",
+   "units": 3,
+   "designation": "Writing/Breadth-Humanities",
+   "prereqText": "",
+   "terms": [
+    "spring",
+    "fall"
+   ],
+   "lastOffered": "spring 2027"
+  }
+ }
+}

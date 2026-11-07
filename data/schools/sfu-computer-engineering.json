@@ -1,0 +1,533 @@
+{
+  "id": "sfu-engsci-computer-engineering-basc",
+  "school": "Simon Fraser University",
+  "program": "Engineering Science, Computer Engineering Option (BASc)",
+  "source": "https://www.sfu.ca/students/calendar/2027/spring/programs/engineering-science-computer-engineering-option/major/bachelor-of-applied-science.html",
+  "totalUnits": 134,
+  "unitsPerLevel": 10,
+  "notes": [
+    "The total reflects the courses on the calendar page only. The calendar does not state a total, so check with an advisor.",
+    "Not included: 12 units of engineering science and design electives, one science elective, two more breadth courses (one B-Hum), and three co-op work terms.",
+    "Units-based rules are not modelled: 80 units to enter 400-level courses, 100 units for ENSC 406, and 22 upper-division ENSC units for Capstone A.",
+    "Where a course could be taken at the same time as another, the planner does not lock it. Where the calendar lists alternatives, only the main option is used."
+  ],
+  "groups": [
+    {
+      "id": "core",
+      "name": "Core courses",
+      "pick": 0
+    },
+    {
+      "id": "calc1",
+      "name": "Calculus I (pick 1)",
+      "pick": 1
+    },
+    {
+      "id": "biz",
+      "name": "Business of engineering (pick 1)",
+      "pick": 1
+    },
+    {
+      "id": "tech",
+      "name": "Technical electives (pick 2)",
+      "pick": 2
+    }
+  ],
+  "courses": [
+    {
+      "code": "CHEM 121",
+      "name": "General Chemistry and Laboratory I",
+      "units": 4,
+      "group": "core",
+      "prereq": []
+    },
+    {
+      "code": "ECON 103",
+      "name": "Principles of Microeconomics",
+      "units": 4,
+      "group": "core",
+      "prereq": []
+    },
+    {
+      "code": "PHYS 120",
+      "name": "Mechanics and Modern Physics",
+      "units": 3,
+      "group": "core",
+      "prereq": []
+    },
+    {
+      "code": "PHYS 121",
+      "name": "Optics, Electricity and Magnetism",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "PHYS 120"
+        ]
+      ]
+    },
+    {
+      "code": "ENSC 100",
+      "name": "Engineering, Science and Society",
+      "units": 3,
+      "group": "core",
+      "prereq": []
+    },
+    {
+      "code": "ENSC 105W",
+      "name": "Process, Form and Convention in Professional Genres",
+      "units": 3,
+      "group": "core",
+      "prereq": []
+    },
+    {
+      "code": "ENSC 120",
+      "name": "Intro to Electronics Laboratory Instruments",
+      "units": 2,
+      "group": "core",
+      "prereq": []
+    },
+    {
+      "code": "ENSC 151",
+      "name": "Intro to Software Development for Engineers",
+      "units": 4,
+      "group": "core",
+      "prereq": []
+    },
+    {
+      "code": "ENSC 204",
+      "name": "Graphical Communication for Engineering",
+      "units": 3,
+      "group": "core",
+      "prereq": []
+    },
+    {
+      "code": "ENSC 251",
+      "name": "Software Design and Analysis for Engineers",
+      "units": 4,
+      "group": "core",
+      "prereq": [
+        [
+          "ENSC 151"
+        ]
+      ]
+    },
+    {
+      "code": "ENSC 252",
+      "name": "Fundamentals of Digital Logic and Design",
+      "units": 4,
+      "group": "core",
+      "prereq": [
+        [
+          "ENSC 151"
+        ]
+      ]
+    },
+    {
+      "code": "ENSC 254",
+      "name": "Intro to Computer Organization",
+      "units": 4,
+      "group": "core",
+      "prereq": [
+        [
+          "ENSC 251"
+        ],
+        [
+          "ENSC 252"
+        ]
+      ]
+    },
+    {
+      "code": "ENSC 180",
+      "name": "Intro to Engineering Analysis",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "ENSC 151"
+        ],
+        [
+          "MATH 150",
+          "MATH 151"
+        ]
+      ]
+    },
+    {
+      "code": "MATH 152",
+      "name": "Calculus II",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "MATH 150",
+          "MATH 151"
+        ]
+      ]
+    },
+    {
+      "code": "MATH 232",
+      "name": "Applied Linear Algebra",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "MATH 150",
+          "MATH 151"
+        ]
+      ]
+    },
+    {
+      "code": "MATH 251",
+      "name": "Calculus III",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "MATH 152"
+        ]
+      ]
+    },
+    {
+      "code": "MATH 260",
+      "name": "Intro to Ordinary Differential Equations",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "MATH 152"
+        ],
+        [
+          "MATH 232"
+        ]
+      ]
+    },
+    {
+      "code": "MACM 201",
+      "name": "Discrete Mathematics II",
+      "units": 3,
+      "group": "core",
+      "prereq": []
+    },
+    {
+      "code": "MACM 316",
+      "name": "Numerical Analysis I",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "MATH 152"
+        ],
+        [
+          "MATH 232"
+        ]
+      ]
+    },
+    {
+      "code": "ENSC 220",
+      "name": "Electric Circuits I",
+      "units": 4,
+      "group": "core",
+      "prereq": [
+        [
+          "PHYS 121"
+        ],
+        [
+          "ENSC 120"
+        ],
+        [
+          "MATH 232"
+        ]
+      ]
+    },
+    {
+      "code": "ENSC 225",
+      "name": "Microelectronics I",
+      "units": 4,
+      "group": "core",
+      "prereq": [
+        [
+          "ENSC 220"
+        ],
+        [
+          "MATH 232"
+        ],
+        [
+          "MATH 260"
+        ]
+      ]
+    },
+    {
+      "code": "ENSC 280",
+      "name": "Engineering Measurement and Data Analysis",
+      "units": 4,
+      "group": "core",
+      "prereq": [
+        [
+          "PHYS 121"
+        ],
+        [
+          "ENSC 120"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 225",
+      "name": "Data Structures and Programming",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "ENSC 251"
+        ],
+        [
+          "ENSC 252"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 276",
+      "name": "Intro to Software Engineering",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "ENSC 105W"
+        ],
+        [
+          "CMPT 225"
+        ],
+        [
+          "MATH 150",
+          "MATH 151"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 303",
+      "name": "Operating Systems",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "CMPT 225"
+        ],
+        [
+          "ENSC 254"
+        ],
+        [
+          "ENSC 351"
+        ]
+      ]
+    },
+    {
+      "code": "ENSC 320",
+      "name": "Electric Circuits II",
+      "units": 4,
+      "group": "core",
+      "prereq": [
+        [
+          "ENSC 220"
+        ],
+        [
+          "MATH 232"
+        ],
+        [
+          "MATH 260"
+        ]
+      ]
+    },
+    {
+      "code": "ENSC 324",
+      "name": "Electronic Devices",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "ENSC 220"
+        ],
+        [
+          "MATH 232"
+        ],
+        [
+          "MATH 260"
+        ]
+      ]
+    },
+    {
+      "code": "ENSC 380",
+      "name": "Linear Systems",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "ENSC 180"
+        ],
+        [
+          "ENSC 220"
+        ],
+        [
+          "MATH 260"
+        ]
+      ]
+    },
+    {
+      "code": "ENSC 327",
+      "name": "Communication Systems",
+      "units": 4,
+      "group": "core",
+      "prereq": [
+        [
+          "ENSC 380"
+        ],
+        [
+          "ENSC 280"
+        ]
+      ]
+    },
+    {
+      "code": "ENSC 350",
+      "name": "Digital Systems Design",
+      "units": 4,
+      "group": "core",
+      "prereq": [
+        [
+          "ENSC 252"
+        ],
+        [
+          "ENSC 254"
+        ]
+      ]
+    },
+    {
+      "code": "ENSC 351",
+      "name": "Embedded and Real Time System Software",
+      "units": 4,
+      "group": "core",
+      "prereq": [
+        [
+          "ENSC 254"
+        ]
+      ]
+    },
+    {
+      "code": "ENSC 429",
+      "name": "Digital Signal Processing",
+      "units": 4,
+      "group": "core",
+      "prereq": [
+        [
+          "ENSC 327"
+        ],
+        [
+          "ENSC 380"
+        ]
+      ]
+    },
+    {
+      "code": "ENSC 406",
+      "name": "Engineering Ethics, Law, and Professional Practice",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "ENSC 100"
+        ]
+      ]
+    },
+    {
+      "code": "ENSC 405W",
+      "name": "Capstone A: Project Design, Management and Documentation",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "ENSC 105W"
+        ],
+        [
+          "ENSC 204"
+        ]
+      ]
+    },
+    {
+      "code": "ENSC 440",
+      "name": "Capstone B: Engineering Design Project",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "ENSC 405W"
+        ]
+      ]
+    },
+    {
+      "code": "MATH 150",
+      "name": "Calculus I with Review (if MATH 151 prerequisites not met)",
+      "units": 4,
+      "group": "calc1",
+      "prereq": []
+    },
+    {
+      "code": "MATH 151",
+      "name": "Calculus I",
+      "units": 3,
+      "group": "calc1",
+      "prereq": []
+    },
+    {
+      "code": "ENSC 410",
+      "name": "The Business of Engineering",
+      "units": 3,
+      "group": "biz",
+      "prereq": []
+    },
+    {
+      "code": "ENSC 411",
+      "name": "The Business of Entrepreneurial Engineering",
+      "units": 4,
+      "group": "biz",
+      "prereq": []
+    },
+    {
+      "code": "ENSC 450",
+      "name": "VLSI Systems Design",
+      "units": 4,
+      "group": "tech",
+      "prereq": [
+        [
+          "ENSC 225"
+        ],
+        [
+          "ENSC 350"
+        ]
+      ]
+    },
+    {
+      "code": "ENSC 452",
+      "name": "Advanced Digital System Design",
+      "units": 4,
+      "group": "tech",
+      "prereq": [
+        [
+          "ENSC 350"
+        ],
+        [
+          "ENSC 351"
+        ]
+      ]
+    },
+    {
+      "code": "ENSC 453",
+      "name": "Programming for Heterogeneous Computing Systems",
+      "units": 4,
+      "group": "tech",
+      "prereq": [
+        [
+          "ENSC 350"
+        ],
+        [
+          "ENSC 351"
+        ]
+      ]
+    }
+  ]
+}

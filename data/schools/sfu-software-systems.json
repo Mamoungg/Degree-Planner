@@ -1,0 +1,570 @@
+{
+  "id": "sfu-software-systems-bsc",
+  "school": "Simon Fraser University",
+  "program": "Software Systems Major (BSc)",
+  "source": "https://www.sfu.ca/students/calendar/2027/spring/programs/software-systems/major/bachelor-of-science.html",
+  "totalUnits": 120,
+  "unitsPerLevel": 10,
+  "groups": [
+    {
+      "id": "comm",
+      "name": "Communication (pick 1)",
+      "pick": 1
+    },
+    {
+      "id": "core",
+      "name": "Lower division core",
+      "pick": 0
+    },
+    {
+      "id": "calc1",
+      "name": "Calculus I (pick 1)",
+      "pick": 1
+    },
+    {
+      "id": "calc2",
+      "name": "Calculus II (pick 1)",
+      "pick": 1
+    },
+    {
+      "id": "la",
+      "name": "Linear algebra (pick 1)",
+      "pick": 1
+    },
+    {
+      "id": "up",
+      "name": "Upper division core",
+      "pick": 0
+    },
+    {
+      "id": "sys",
+      "name": "Systems (pick 4, 12 units)",
+      "pick": 4
+    },
+    {
+      "id": "se",
+      "name": "Software engineering",
+      "pick": 0
+    },
+    {
+      "id": "seel",
+      "name": "SE electives (pick 2)",
+      "pick": 2
+    },
+    {
+      "id": "cap",
+      "name": "Capstone",
+      "pick": 0
+    }
+  ],
+  "courses": [
+    {
+      "code": "CMPT 105W",
+      "name": "Social Issues and Communication",
+      "units": 3,
+      "group": "comm",
+      "prereq": []
+    },
+    {
+      "code": "ENSC 105W",
+      "name": "Professional Genres",
+      "units": 3,
+      "group": "comm",
+      "prereq": []
+    },
+    {
+      "code": "MSE 101W",
+      "name": "Professional Genres",
+      "units": 3,
+      "group": "comm",
+      "prereq": []
+    },
+    {
+      "code": "SEE 101W",
+      "name": "Professional Genres",
+      "units": 3,
+      "group": "comm",
+      "prereq": []
+    },
+    {
+      "code": "CMPT 130",
+      "name": "Intro Programming I",
+      "units": 3,
+      "group": "core",
+      "prereq": []
+    },
+    {
+      "code": "CMPT 135",
+      "name": "Intro Programming II",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "CMPT 130"
+        ]
+      ]
+    },
+    {
+      "code": "MACM 101",
+      "name": "Discrete Mathematics I",
+      "units": 3,
+      "group": "core",
+      "prereq": []
+    },
+    {
+      "code": "CMPT 201",
+      "name": "Systems Programming",
+      "units": 4,
+      "group": "core",
+      "prereq": [
+        [
+          "CMPT 135"
+        ],
+        [
+          "MACM 101"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 210",
+      "name": "Probability and Computing",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "MACM 101"
+        ],
+        [
+          "MATH 152"
+        ],
+        [
+          "CMPT 135"
+        ],
+        [
+          "MATH 232",
+          "MATH 240"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 225",
+      "name": "Data Structures and Programming",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "MACM 101"
+        ],
+        [
+          "CMPT 135"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 213",
+      "name": "Object Oriented Design in Java",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "CMPT 225"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 276",
+      "name": "Intro to Software Engineering",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "CMPT 105W",
+          "ENSC 105W",
+          "MSE 101W",
+          "SEE 101W"
+        ],
+        [
+          "CMPT 225"
+        ],
+        [
+          "MACM 101"
+        ],
+        [
+          "MATH 150",
+          "MATH 151"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 295",
+      "name": "Intro to Computer Systems",
+      "units": 4,
+      "group": "core",
+      "prereq": [
+        [
+          "MACM 101"
+        ],
+        [
+          "CMPT 135"
+        ]
+      ]
+    },
+    {
+      "code": "STAT 271",
+      "name": "Probability and Statistics for CS",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "CMPT 210"
+        ]
+      ]
+    },
+    {
+      "code": "MATH 150",
+      "name": "Calculus I with Review",
+      "units": 4,
+      "group": "calc1",
+      "prereq": []
+    },
+    {
+      "code": "MATH 151",
+      "name": "Calculus I",
+      "units": 3,
+      "group": "calc1",
+      "prereq": []
+    },
+    {
+      "code": "MATH 154",
+      "name": "Math for Life Sciences I (B+ + permission)",
+      "units": 3,
+      "group": "calc1",
+      "prereq": []
+    },
+    {
+      "code": "MATH 157",
+      "name": "Calculus I Social Sciences (B+ + permission)",
+      "units": 3,
+      "group": "calc1",
+      "prereq": []
+    },
+    {
+      "code": "MATH 152",
+      "name": "Calculus II",
+      "units": 3,
+      "group": "calc2",
+      "prereq": [
+        [
+          "MATH 150",
+          "MATH 151",
+          "MATH 154",
+          "MATH 157"
+        ]
+      ]
+    },
+    {
+      "code": "MATH 155",
+      "name": "Math for Life Sciences II",
+      "units": 3,
+      "group": "calc2",
+      "prereq": [
+        [
+          "MATH 150",
+          "MATH 151",
+          "MATH 154",
+          "MATH 157"
+        ]
+      ]
+    },
+    {
+      "code": "MATH 158",
+      "name": "Calculus II Social Sciences",
+      "units": 3,
+      "group": "calc2",
+      "prereq": [
+        [
+          "MATH 150",
+          "MATH 151",
+          "MATH 154",
+          "MATH 157"
+        ]
+      ]
+    },
+    {
+      "code": "MATH 232",
+      "name": "Applied Linear Algebra",
+      "units": 3,
+      "group": "la",
+      "prereq": [
+        [
+          "MATH 150",
+          "MATH 151",
+          "MACM 101"
+        ]
+      ]
+    },
+    {
+      "code": "MATH 240",
+      "name": "Algebra I: Linear Algebra",
+      "units": 3,
+      "group": "la",
+      "prereq": [
+        [
+          "MATH 150",
+          "MATH 151",
+          "MACM 101"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 307",
+      "name": "Data Structures and Algorithms",
+      "units": 3,
+      "group": "up",
+      "prereq": [
+        [
+          "CMPT 225"
+        ],
+        [
+          "CMPT 210"
+        ],
+        [
+          "MATH 150",
+          "MATH 151"
+        ],
+        [
+          "MATH 232",
+          "MATH 240"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 376W",
+      "name": "Professional Responsibility and Writing",
+      "units": 3,
+      "group": "up",
+      "prereq": [
+        [
+          "CMPT 105W"
+        ],
+        [
+          "CMPT 276"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 303",
+      "name": "Operating Systems",
+      "units": 3,
+      "group": "sys",
+      "prereq": [
+        [
+          "CMPT 225"
+        ],
+        [
+          "CMPT 295"
+        ],
+        [
+          "CMPT 201"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 354",
+      "name": "Database Systems I",
+      "units": 3,
+      "group": "sys",
+      "prereq": [
+        [
+          "CMPT 225"
+        ],
+        [
+          "MACM 101"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 371",
+      "name": "Data Communications and Networking",
+      "units": 3,
+      "group": "sys",
+      "prereq": [
+        [
+          "CMPT 225"
+        ],
+        [
+          "MATH 150",
+          "MATH 151"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 431",
+      "name": "Distributed Systems",
+      "units": 3,
+      "group": "sys",
+      "prereq": [
+        [
+          "CMPT 201"
+        ],
+        [
+          "CMPT 371"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 433",
+      "name": "Embedded Systems",
+      "units": 3,
+      "group": "sys",
+      "prereq": [
+        [
+          "CMPT 201"
+        ],
+        [
+          "CMPT 295"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 454",
+      "name": "Database Systems II",
+      "units": 3,
+      "group": "sys",
+      "prereq": [
+        [
+          "CMPT 201"
+        ],
+        [
+          "CMPT 354"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 471",
+      "name": "Networking II",
+      "units": 3,
+      "group": "sys",
+      "prereq": [
+        [
+          "CMPT 201"
+        ],
+        [
+          "CMPT 371"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 373",
+      "name": "Software Development Methods",
+      "units": 3,
+      "group": "se",
+      "prereq": [
+        [
+          "CMPT 276"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 473",
+      "name": "Software Testing and Security",
+      "units": 3,
+      "group": "se",
+      "prereq": [
+        [
+          "CMPT 276"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 379",
+      "name": "Principles of Compiler Design",
+      "units": 3,
+      "group": "seel",
+      "prereq": [
+        [
+          "CMPT 210"
+        ],
+        [
+          "CMPT 295"
+        ],
+        [
+          "CMPT 225"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 383",
+      "name": "Comparative Programming Languages",
+      "units": 3,
+      "group": "seel",
+      "prereq": [
+        [
+          "CMPT 225"
+        ],
+        [
+          "MACM 101"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 384",
+      "name": "Symbolic Computing",
+      "units": 3,
+      "group": "seel",
+      "prereq": [
+        [
+          "CMPT 225"
+        ],
+        [
+          "MACM 101"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 474",
+      "name": "Web Systems Architecture",
+      "units": 3,
+      "group": "seel",
+      "prereq": [
+        [
+          "CMPT 371"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 477",
+      "name": "Intro to Formal Verification",
+      "units": 3,
+      "group": "seel",
+      "prereq": [
+        [
+          "CMPT 276"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 494",
+      "name": "Capstone Project I",
+      "units": 3,
+      "group": "cap",
+      "prereq": []
+    },
+    {
+      "code": "CMPT 495",
+      "name": "Capstone Project II",
+      "units": 3,
+      "group": "cap",
+      "prereq": [
+        [
+          "CMPT 494"
+        ]
+      ]
+    }
+  ],
+  "notes": [
+    "CMPT 372 is left out because it needs CMPT 272, which is not in the program list. The '15 upper division units' rule on CMPT 473 is not modelled.",
+    "The capstone shows the CMPT 494 and 495 route only. The alternative is two of CMPT 379, 431 and 433.",
+    "WQB requirements are not tracked. The remaining units are electives. Confirm with an advisor."
+  ]
+}

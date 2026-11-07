@@ -1,0 +1,923 @@
+{
+  "id": "sfu-computing-science-bsc",
+  "school": "Simon Fraser University",
+  "program": "Computing Science Major (BSc)",
+  "source": "https://www.sfu.ca/students/calendar/2027/spring/programs/computing-science/major/bachelor-of-science-or-bachelor-of-arts.html",
+  "totalUnits": 120,
+  "unitsPerLevel": 10,
+  "notes": [
+    "Needs 45 upper-division units, 30 of them CMPT. CMPT 307 and 376W are required; the pick-8 group covers the other 24 CMPT units.",
+    "Breadth: complete four courses from four of the six areas in brackets, one of them CMPT 307. Depth: 12 units at the 400 level.",
+    "MACM 316 is in the elective pool because several courses need it, but it is not a CMPT course. The BSc credential also wants two Table I, II or III courses (Tables II and III are not included here).",
+    "The remaining units are free electives. Confirm everything with an advisor."
+  ],
+  "groups": [
+    {
+      "id": "core",
+      "name": "Lower division core",
+      "pick": 0
+    },
+    {
+      "id": "calc1",
+      "name": "Calculus I (pick 1)",
+      "pick": 1
+    },
+    {
+      "id": "calc2",
+      "name": "Calculus II (pick 1)",
+      "pick": 1
+    },
+    {
+      "id": "la",
+      "name": "Linear algebra (pick 1)",
+      "pick": 1
+    },
+    {
+      "id": "upreq",
+      "name": "Upper division required",
+      "pick": 0
+    },
+    {
+      "id": "upel",
+      "name": "Upper division electives (pick 8)",
+      "pick": 8
+    }
+  ],
+  "courses": [
+    {
+      "code": "CMPT 105W",
+      "name": "Social Issues and Communication Strategies",
+      "units": 3,
+      "group": "core",
+      "prereq": []
+    },
+    {
+      "code": "CMPT 120",
+      "name": "Intro to Computing Science and Programming I",
+      "units": 3,
+      "group": "core",
+      "prereq": []
+    },
+    {
+      "code": "CMPT 125",
+      "name": "Intro to Computing Science and Programming II",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "CMPT 120"
+        ]
+      ]
+    },
+    {
+      "code": "MACM 101",
+      "name": "Discrete Mathematics I",
+      "units": 3,
+      "group": "core",
+      "prereq": []
+    },
+    {
+      "code": "CMPT 201",
+      "name": "Systems Programming",
+      "units": 4,
+      "group": "core",
+      "prereq": [
+        [
+          "CMPT 125"
+        ],
+        [
+          "MACM 101"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 210",
+      "name": "Probability and Computing",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "MACM 101"
+        ],
+        [
+          "MATH 152"
+        ],
+        [
+          "CMPT 125"
+        ],
+        [
+          "MATH 232",
+          "MATH 240"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 225",
+      "name": "Data Structures and Programming",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "MACM 101"
+        ],
+        [
+          "CMPT 125"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 276",
+      "name": "Intro to Software Engineering",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "CMPT 105W"
+        ],
+        [
+          "CMPT 225"
+        ],
+        [
+          "MACM 101"
+        ],
+        [
+          "MATH 150",
+          "MATH 151"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 295",
+      "name": "Intro to Computer Systems",
+      "units": 4,
+      "group": "core",
+      "prereq": [
+        [
+          "MACM 101"
+        ],
+        [
+          "CMPT 125"
+        ]
+      ]
+    },
+    {
+      "code": "STAT 271",
+      "name": "Probability and Statistics for Computing Science",
+      "units": 3,
+      "group": "core",
+      "prereq": [
+        [
+          "CMPT 210"
+        ]
+      ]
+    },
+    {
+      "code": "MATH 150",
+      "name": "Calculus I with Review",
+      "units": 4,
+      "group": "calc1",
+      "prereq": []
+    },
+    {
+      "code": "MATH 151",
+      "name": "Calculus I",
+      "units": 3,
+      "group": "calc1",
+      "prereq": []
+    },
+    {
+      "code": "MATH 154",
+      "name": "Math for Life Sciences I (B+ and permission)",
+      "units": 3,
+      "group": "calc1",
+      "prereq": []
+    },
+    {
+      "code": "MATH 157",
+      "name": "Calculus I for Social Sciences (B+ and permission)",
+      "units": 3,
+      "group": "calc1",
+      "prereq": []
+    },
+    {
+      "code": "MATH 152",
+      "name": "Calculus II",
+      "units": 3,
+      "group": "calc2",
+      "prereq": [
+        [
+          "MATH 150",
+          "MATH 151",
+          "MATH 154",
+          "MATH 157"
+        ]
+      ]
+    },
+    {
+      "code": "MATH 155",
+      "name": "Math for Life Sciences II",
+      "units": 3,
+      "group": "calc2",
+      "prereq": [
+        [
+          "MATH 150",
+          "MATH 151",
+          "MATH 154",
+          "MATH 157"
+        ]
+      ]
+    },
+    {
+      "code": "MATH 158",
+      "name": "Calculus II for Social Sciences",
+      "units": 3,
+      "group": "calc2",
+      "prereq": [
+        [
+          "MATH 150",
+          "MATH 151",
+          "MATH 154",
+          "MATH 157"
+        ]
+      ]
+    },
+    {
+      "code": "MATH 232",
+      "name": "Applied Linear Algebra",
+      "units": 3,
+      "group": "la",
+      "prereq": [
+        [
+          "MATH 150",
+          "MATH 151",
+          "MACM 101"
+        ]
+      ]
+    },
+    {
+      "code": "MATH 240",
+      "name": "Algebra I: Linear Algebra",
+      "units": 3,
+      "group": "la",
+      "prereq": [
+        [
+          "MATH 150",
+          "MATH 151",
+          "MACM 101"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 307",
+      "name": "Data Structures and Algorithms",
+      "units": 3,
+      "group": "upreq",
+      "prereq": [
+        [
+          "CMPT 225"
+        ],
+        [
+          "CMPT 210"
+        ],
+        [
+          "MATH 150",
+          "MATH 151"
+        ],
+        [
+          "MATH 232",
+          "MATH 240"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 376W",
+      "name": "Professional Responsibility and Technical Writing",
+      "units": 3,
+      "group": "upreq",
+      "prereq": [
+        [
+          "CMPT 105W"
+        ],
+        [
+          "CMPT 276"
+        ]
+      ]
+    },
+    {
+      "code": "MACM 316",
+      "name": "Numerical Analysis I",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "MATH 152",
+          "MATH 155",
+          "MATH 158"
+        ],
+        [
+          "MATH 232",
+          "MATH 240"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 310",
+      "name": "Intro to Artificial Intelligence [AI]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 225"
+        ],
+        [
+          "STAT 271"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 340",
+      "name": "Biomedical Computing [AI]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 125"
+        ],
+        [
+          "MATH 152"
+        ],
+        [
+          "MATH 232",
+          "MATH 240"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 410",
+      "name": "Machine Learning [AI]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 310"
+        ],
+        [
+          "MACM 316"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 411",
+      "name": "Knowledge Representation [AI]",
+      "units": 3,
+      "group": "upel",
+      "prereq": []
+    },
+    {
+      "code": "CMPT 413",
+      "name": "Computational Linguistics [AI]",
+      "units": 3,
+      "group": "upel",
+      "prereq": []
+    },
+    {
+      "code": "CMPT 417",
+      "name": "Intelligent Systems [AI]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 225"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 419",
+      "name": "Special Topics in AI [AI]",
+      "units": 3,
+      "group": "upel",
+      "prereq": []
+    },
+    {
+      "code": "CMPT 420",
+      "name": "Deep Learning [AI]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 310",
+          "CMPT 410"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 361",
+      "name": "Intro to Visual Computing [Visual]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 225"
+        ],
+        [
+          "STAT 271"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 363",
+      "name": "User Interface Design [Visual]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 225"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 365",
+      "name": "Multimedia Systems [Visual]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 225"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 412",
+      "name": "Computer Vision [Visual]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 361"
+        ],
+        [
+          "MATH 152"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 461",
+      "name": "Computational Photography [Visual]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 361"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 464",
+      "name": "Geometric Modelling [Visual]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 361"
+        ],
+        [
+          "MACM 316"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 466",
+      "name": "Animation [Visual]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 361"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 467",
+      "name": "Visualization [Visual]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 225"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 469",
+      "name": "Special Topics in Graphics [Visual]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 361"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 303",
+      "name": "Operating Systems [Systems]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 225"
+        ],
+        [
+          "CMPT 295"
+        ],
+        [
+          "CMPT 201"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 305",
+      "name": "Computer Simulation and Modelling [Systems]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 225"
+        ],
+        [
+          "MACM 101"
+        ],
+        [
+          "STAT 271"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 371",
+      "name": "Data Communications and Networking [Systems]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 225"
+        ],
+        [
+          "MATH 150",
+          "MATH 151"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 379",
+      "name": "Principles of Compiler Design [Systems]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 210"
+        ],
+        [
+          "CMPT 295"
+        ],
+        [
+          "CMPT 225"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 403",
+      "name": "System Security and Privacy [Systems]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 201"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 431",
+      "name": "Distributed Systems [Systems]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 201"
+        ],
+        [
+          "CMPT 371"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 433",
+      "name": "Embedded Systems [Systems]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 201"
+        ],
+        [
+          "CMPT 295"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 450",
+      "name": "Computer Architecture [Systems]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 295"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 471",
+      "name": "Networking II [Systems]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 201"
+        ],
+        [
+          "CMPT 371"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 479",
+      "name": "Special Topics in Computing Systems [Systems]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 201"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 353",
+      "name": "Computational Data Science [Info]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 225"
+        ],
+        [
+          "STAT 271"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 354",
+      "name": "Database Systems I [Info]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 225"
+        ],
+        [
+          "MACM 101"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 362",
+      "name": "Mobile Applications Programming [Info]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 225"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 372",
+      "name": "Web II - Server-side Development [Info]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 225"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 441",
+      "name": "Computational Biology [Info]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 307"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 454",
+      "name": "Database Systems II [Info]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 201"
+        ],
+        [
+          "CMPT 354"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 456",
+      "name": "Information Retrieval and Web Search [Info]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 354"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 459",
+      "name": "Special Topics in Database Systems [Info]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 354"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 474",
+      "name": "Web Systems Architecture [Info]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 371"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 373",
+      "name": "Software Development Methods [PL]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 276"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 383",
+      "name": "Comparative Programming Languages [PL]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 225"
+        ],
+        [
+          "MACM 101"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 384",
+      "name": "Symbolic Computing [PL]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 225"
+        ],
+        [
+          "MACM 101"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 473",
+      "name": "Software Testing, Reliability and Security [PL]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 276"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 475",
+      "name": "Requirements Engineering [PL]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 276"
+        ],
+        [
+          "CMPT 210"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 477",
+      "name": "Intro to Formal Verification [PL]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 276"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 489",
+      "name": "Special Topics in Programming Languages [PL]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 383"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 308",
+      "name": "Computability and Complexity [Theory]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 210"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 404",
+      "name": "Cryptography and Cryptographic Protocols [Theory]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 210"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 405",
+      "name": "Design and Analysis of Computing Algorithms [Theory]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 307"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 406",
+      "name": "Computational Geometry [Theory]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 307"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 407",
+      "name": "Computational Complexity [Theory]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 307"
+        ]
+      ]
+    },
+    {
+      "code": "CMPT 409",
+      "name": "Special Topics in Theoretical Computing Science [Theory]",
+      "units": 3,
+      "group": "upel",
+      "prereq": [
+        [
+          "CMPT 307"
+        ]
+      ]
+    }
+  ]
+}
